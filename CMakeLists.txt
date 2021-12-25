@@ -10,6 +10,7 @@ set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 add_executable(vuture app/main.cpp)
 
 add_subdirectory(lib/glfw)
+# add_subdirectory(lib/glm)
 
 include(OpenGLContent)
 
