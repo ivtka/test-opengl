@@ -1,0 +1,4 @@
+BasedOnStyle: LLVM
+
+Cpp11BracedListStyle: false
+BreakBeforeBraces: Linux
