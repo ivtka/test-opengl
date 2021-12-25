@@ -3,7 +3,8 @@
 
 #include <iostream>
 
-auto main() -> int {
+auto main() -> int
+{
   if (!glfwInit()) {
     return EXIT_FAILURE;
   }
